@@ -1,5 +1,7 @@
 # git_class_12_feb
 
+new name is also same
+
 Name of the Instructor: Naman Bhalla
 Students:
 1. Naveen Reddy
