@@ -6,3 +6,6 @@ Students:
 2. Asif Iqbal
 3. Bharath Vepanjeri
 4. krishna chaitanya
+
+
+new name of instructor naman bhalla
